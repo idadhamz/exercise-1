@@ -1,2 +1,2 @@
 # exercise-1
-this is repository for task class JSDevC di branch update README
+Tugas Exercise 1 Javascript Development Course Batch 4 - Dadi Ilham Setiadi
